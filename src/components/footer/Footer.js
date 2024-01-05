@@ -6,7 +6,7 @@ import { logo } from "../../assets/index";
 const Footer = () => {
   return (
     <div className="w-full py-20 h-auto border-b-[1px] border-b-black 
-    grid grid-cols-1 md:grid-cols-2 lgl:grid-cols-4 gap-8">
+      grid grid-cols-1 md:grid-cols-2 lgl:grid-cols-4 gap-8">
       <div className="w-full h-full flex flex-col gap-8">
         <img className="w-20" src={logo} alt="Ganesh" />
         <div className="flex flex-col gap-4">
@@ -132,7 +132,7 @@ const Footer = () => {
           </li>
           <li>
             <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
-              UI/UX Developer
+              MERN Stack Developer
               <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
             </span>
           </li>

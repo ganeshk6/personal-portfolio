@@ -18,8 +18,8 @@ const Feature = () => {
           icon={<FaCode />}
         />
         <Card 
-        title="UI/UX Designer"
-        des="I have knowledge of UI/UX Design (Figma, Adobe, Photoshop). I create 2+ design by using Figma, Adobe."
+        title="ReactJs Developer"
+        des="I have knowledge in MERN Stack. I have developed 10+ project using ReactJs, NextJs, MERN Stack."
         icon={<SiAntdesign />}
         />
         <Card

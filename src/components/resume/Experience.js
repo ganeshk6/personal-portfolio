@@ -27,18 +27,16 @@ const Experience = () => {
               "
             />
             <ResumeCard
-              title="FREELANCING"
-              subTitle="Web Development, Logo Design, Web Design (Sep. 2023 - Present)"
+              title="NEXTWEBGURU TECHNO SERVICES PVT LTD"
+              subTitle="NextJs Internship (Jul. 2023 – Aug. 2023)"
               result="WFH"
-              des="I'm working on freelancer for gain practical knowledge in 
-              various technologies, Like Web Development, UI/UX Design, 
-              Logo Design, Web Design etc. Till Now, I made 2+ Project from Freelancing."
+              des="I have Learn Next.js and developed the project. I have worked on e-commerce website https://nwg-ecommerce.vercel.app/."
             />
             <ResumeCard
               title="AAV SOLUTION"
               subTitle="Full-Stack Developer (Apr 2023  - Present)"
               result="WFH"
-              des="Tech- .Net, Entity Framework, Unit Testing, C#, SQL Server, Web API,
+              des="Tech- .Net, Entity Framework, Unit Testing, SQL Server, Web API,
               Angular etc. AAV SOLUTION is a USA base company so working in online as a Part-Time.
               Now, I'm working on Project."
             />

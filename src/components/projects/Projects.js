@@ -1,6 +1,6 @@
 import React from "react";
 import Title from "../layouts/Title";
-import { projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight } from "../../assets/index"
+import { projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectTen, projectNine } from "../../assets/index"
 import ProjectsCard from "./ProjectsCard";
 
 
@@ -70,11 +70,25 @@ const Projects = () => {
           projectUrl='http://panpeninsulaproperties.com/'
         />
         <ProjectsCard
-          title="Happy Club"
-          des="This is a Healths Project. This is based on Laravel, during Internship period I was worked on this project."
+          title="Bhartiya Robotics"
+          des="This site is used for sell and buy Robotics kits for kids. I was worked on client side server side worked my project partner."
            src={projectEight}
-           gitGubUrl=''
-           projectUrl='https://happyclubunited.com/'
+           gitGubUrl='https://github.com/ganeshk6/bhartiyarobotics'
+           projectUrl='https://bhartiyarobotics.vercel.app/'
+        />
+        <ProjectsCard
+          title="nwg-ecommerce"
+          des="This is a e-Commerce site, made by using NextJs. This is made by Me."
+           src={projectNine}
+           gitGubUrl='https://github.com/ganeshk6/nwg-ecommerce'
+           projectUrl='https://nwg-ecommerce.vercel.app/'
+        />
+        <ProjectsCard
+          title="AbTechZone"
+          des="This is a company site. make by using NextJs."
+           src={projectTen}
+           gitGubUrl='https://github.com/ganeshk6/AbTechZone'
+           projectUrl='https://abtechzone.com/'
         />
       </div>
     </section>

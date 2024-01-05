@@ -8,6 +8,8 @@ import projectFive from "./images/projects/projectFive.jpg"
 import projectSix from "./images/projects/projectSix.jpg"
 import projectSeven from "./images/projects/projectSeven.jpg"
 import projectEight from "./images/projects/projectEight.jpg"
+import projectNine from "./images/projects/projectNine.jpg"
+import projectTen from "./images/projects/projectTen.jpg"
 import contactImg from "./images/contact/contactImg.png"
 
 export {
@@ -21,5 +23,7 @@ export {
   projectSix,
   projectSeven,
   projectEight,
+  projectNine,
+  projectTen,
   contactImg
 };

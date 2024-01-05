@@ -43,7 +43,7 @@ const Education = () => {
         </div>
 
         {/* part Two  */}
-        <div>
+        {/* <div>
           <div className="py-6 lgl:py-12 font-titleFont">
             <p className="text-sm text-designColor tracking-[4px]">
               2022 - Present
@@ -75,7 +75,7 @@ const Education = () => {
               Angular etc. AAV SOLUTION is a USA base company so working in online as a Part-Time."
             />
           </div>
-        </div>
+        </div> */}
       </motion.div>
   )
 }
